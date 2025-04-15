@@ -1,15 +1,16 @@
-## Hi there 👋
+
+
 ## Hello! 👋 Welcome to my GitHub profile!
 
-I'm Bernardo Mantilla, a professional with a diverse background blending a strong foundation in Data Science and a passion for continuous learning.
+I'm Bernardo Mantilla, a professional with a strong foundation in Data Science and a passion for applying data-driven solutions across diverse fields. My unique background, including training in Biology, allows me to bring a fresh perspective to complex analytical challenges.
 
-In this profile, you'll find projects that reflect my journey in the world of development and data analysis. I'm particularly interested in applying my analytical and problem-solving skills in the hospitality sector, where I seek an opportunity to grow and contribute.
+In this profile, you'll find projects showcasing my skills in development and data analysis. I'm particularly interested in leveraging these skills to drive innovation within the health, agriculture, finance, and entertainment platform sectors.
 
 **A little about me:**
 
-* 📊 Background in Data Science.
-* 👨‍💻 Freelance web developer.
-* 🌱 Naturally curious and always eager to learn.
+* 📊 Proficient in Data Science.
+* 👨‍💻 Freelance Web Developer.
+* 🌱 Analytical and detail-oriented, with a passion for interdisciplinary problem-solving.
 
 **Explore my repositories to see my work in:**
 
@@ -34,5 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30" />
           
