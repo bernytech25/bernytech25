@@ -38,12 +38,12 @@ Here are some ideas to get you started:
           
 This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
-```html
+
 <div style="white-space: nowrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="150" height="150" style="display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="150" height="150" style="display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="150" height="150" style="display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="150" height="150" style="display: inline-block;" />
 </div>
-```
+
 
