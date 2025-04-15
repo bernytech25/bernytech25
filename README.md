@@ -18,7 +18,7 @@ In this profile, you'll find projects that reflect my journey in the world of de
 * Java
 * And more...
 
-Thank you for visiting my profile! Feel free to connect with me on [Your LinkedIn](YourLinkedInURL) or reach out via email.
+Thank you for visiting my profile! Feel free to connect with me on [Your LinkedIn](https://www.linkedin.com/in/bernardo-mantilla-afanador/) or reach out via email.
 <!--
 **bernytech25/bernytech25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
