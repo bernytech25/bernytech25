@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30" />
           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="150" height="150" />
