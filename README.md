@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 -->
 
           
-This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="150" height="150" style="margin: 10px;" />
