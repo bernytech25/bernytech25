@@ -46,9 +46,6 @@ This is often the simplest and most appropriate method for displaying inline ele
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="90" height="90" style="margin: 5px 15px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" width="90" height="90" style="margin: 5px 15px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="90" height="90" style="margin: 5px 15px;" />
-      </td>
-      
-<td style="padding: 15px; vertical-align: top;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow (IA)" width="90" height="90" style="margin: 5px 15px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="90" height="90" style="margin: 5px 15px;" />
       </td>
