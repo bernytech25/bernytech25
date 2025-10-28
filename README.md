@@ -46,9 +46,7 @@ This is often the simplest and most appropriate method for displaying inline ele
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="150" height="150" style="display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="150" height="150" style="display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="100" height="100" style="display: inline-block; margin-right: 10px;" /><img src="https://cdn.jsdelivr.net/gh/lobehub/assets/icons/meta/meta_llama.svg" alt="Meta Llama Logo" width="100" height="100" style="display: inline-block;" />
-
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="100" height="100" style="display: inline-block;" />
 </div>
 
 
