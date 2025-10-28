@@ -39,14 +39,28 @@ Here are some ideas to get you started:
 This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
 
-<div style="white-space: nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="150" height="150" style="display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="100" height="100" style="display: inline-block;" />
+<div align="center">
+  <table style="width: 50%; margin-left: auto; margin-right: auto; text-align: center;">
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="80" height="80" style="margin: 10px;" />
+        </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="80" height="80" style="margin: 10px;" />
+        </a>
+      </td>
+      
+      <td style="padding: 10px;">
+        <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="80" height="80" style="margin: 10px;" />
+        </a>
+        <a href="https://llama.meta.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/lobehub/assets/icons/meta/meta_llama.svg" alt="Meta Llama Logo" width="80" height="80" style="margin: 10px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
