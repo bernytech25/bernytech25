@@ -38,26 +38,26 @@ Here are some ideas to get you started:
           
 This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
-<div align="center">
-  <table style="width: 50%; margin-left: auto; margin-right: auto; text-align: center;">
+<table style="width: 50%; margin: 30px auto; text-align: center; border-collapse: collapse;">
     <tr>
-      <td style="padding: 10px;">
+      <td style="padding: 15px; vertical-align: top;">
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="80" height="80" style="margin: 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="90" height="90" style="margin: 5px 15px;" />
         </a>
         <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="80" height="80" style="margin: 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="90" height="90" style="margin: 5px 15px;" />
         </a>
       </td>
       
-<td style="padding: 10px;">
+<td style="padding: 15px; vertical-align: top;">
         <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="80" height="80" style="margin: 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="90" height="90" style="margin: 5px 15px;" />
         </a>
         <a href="https://llama.meta.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/lobehub/assets/icons/meta/meta_llama.svg" alt="Meta Llama Logo" width="80" height="80" style="margin: 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/lobehub/assets/icons/meta/meta_llama.svg" alt="Meta Llama Logo" width="90" height="90" style="margin: 5px 15px;" />
         </a>
       </td>
     </tr>
+</table>
   </table>
 </div>
