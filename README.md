@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="150" height="150" style="display: inline-block;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="150" height="150" style="display: inline-block;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="150" height="150" style="display: inline-block;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="150" height="150" style="display: inline-block; margin-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="150" height="150" style="display: inline-block; margin-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="150" height="150" style="display: inline-block;" />
