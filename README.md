@@ -38,23 +38,26 @@ Here are some ideas to get you started:
           
 This is often the simplest and most appropriate method for displaying inline elements (like images) horizontally.
 
-
-<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0;">
-    <div style="text-align: center;">
+<div align="center">
+  <table style="width: 50%; margin-left: auto; margin-right: auto; text-align: center;">
+    <tr>
+      <td style="padding: 10px;">
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Logo" width="80" height="80" style="margin: 10px;" />
         </a>
         <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch Logo" width="80" height="80" style="margin: 10px;" />
         </a>
-    </div>
-
-<div style="text-align: center;">
+      </td>
+      
+<td style="padding: 10px;">
         <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux Tux Logo" width="80" height="80" style="margin: 10px;" />
         </a>
         <a href="https://llama.meta.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/lobehub/assets/icons/meta/meta_llama.svg" alt="Meta Llama Logo" width="80" height="80" style="margin: 10px;" />
         </a>
-    </div>
+      </td>
+    </tr>
+  </table>
 </div>
