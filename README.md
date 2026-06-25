@@ -1,125 +1,150 @@
 # 👋 Bernardo Mantilla
 ### AI Engineer | Data Scientist | Production-Grade LLM Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio.nzberman.com)
+<p align="center">
+  <a href="https://linkedin.com/in/nzberman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nzberman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio.nzberman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I design **production-grade AI systems** that bridge the gap between complex data and human understanding. With a foundation in biological sciences and a journey that took me from beekeeping in New Zealand to building intelligent agents in the cloud, I bring a unique perspective to AI engineering: **emergent behavior, adaptation, and resilience** — principles I learned from nature, now applied to code.
+I'm an AI Engineer and Data Scientist who builds production-grade systems that bridge the gap between complex data and human understanding. My journey started in biological sciences, where I published research on complex systems, then took an unexpected turn — I built a beekeeping business and worked as an international beekeeper in New Zealand.
 
-Today, I architect systems where **computer vision meets Graph-RAG**, where **intelligent agents reason and collaborate**, and where **data transforms into decisions** at scale.
+That experience taught me something fundamental: **resilience, adaptation, and emergent behavior** aren't just biological concepts. They're the blueprint for robust AI systems.
 
----
-
-## 🌱 The Journey
-
-My path wasn't linear. I started in biology, publishing research and studying how complex systems self-organize. Then I built a beekeeping business from the ground up and worked as an international beekeeper — learning that **resilience, adaptation, and decentralized intelligence** aren't just biological concepts; they're the blueprint for robust AI systems.
-
-That experience shaped how I approach technology today. I don't just write code — I build **systems that think, adapt, and scale** with the same elegance as the natural world.
+Today, I design architectures where **computer vision meets Graph-RAG**, where **intelligent agents reason and collaborate**, and where **data transforms into decisions** at scale. I bring operational resilience to every system I build — because I learned from nature that the best systems adapt, survive, and thrive.
 
 ---
 
 ## 🔧 What I Build
 
-### 🤖 Intelligent Agents That Think
+### 🤖 Autonomous Agents That Think
 
-I create autonomous agents that don't just answer questions — they **reason, use tools, and remember**. Using LangGraph and LangChain, I build multi-agent systems that decompose complex problems, orchestrate workflows, and maintain context across conversations. These aren't chatbots; they're **digital collaborators** that augment human decision-making.
+I build agents that don't just answer questions — they **reason, use tools, and remember**. Using LangGraph and LangChain, I orchestrate multi-agent systems that decompose complex problems, maintain context across conversations, and make decisions autonomously.
+
+**What I've built:** A sales intelligence agent with 9 specialized tools and two-layer persistent memory. Deployed in production on Azure with LangSmith observability.
 
 ### 📚 Knowledge Systems That Understand
 
-RAG is more than retrieval — it's about **context, relationships, and relevance**. I design hybrid systems combining FAISS for speed, Pinecone for scale, and Neo4j for Graph-RAG that understands connections. Whether it's HR documentation or financial coaching, my systems deliver **sub-second responses** with domain-specific accuracy.
+RAG isn't just retrieval — it's about **context, relationships, and relevance**. I design hybrid systems combining vector search (FAISS, Pinecone) with graph databases (Neo4j) for Graph-RAG that understands connections between information.
+
+**What I've built:** A corporate RAG assistant for HR that processes thousands of documents with sub-second latency. A beehive monitoring system that correlates visual behavior with climate data using Graph-RAG.
 
 ### 👁️ Vision Systems That See
 
-From monitoring bee colonies to assisting visually impaired users, I build **end-to-end computer vision pipelines** that operate at the edge and in the cloud. YOLOv8/11, PyTorch, and OpenCV power real-time detection systems that **quantify behavior, track activity, and provide actionable insights**.
+From monitoring bee colonies to assisting visually impaired users, I build **end-to-end computer vision pipelines** that operate at the edge and in the cloud. YOLOv8/11, PyTorch, and OpenCV power real-time detection systems that quantify behavior and provide actionable insights.
+
+**What I've built:** An edge-to-cloud monitoring system for beehives with real-time activity quantification and predictive alerts. A visual assistant for reduced vision with voice feedback.
 
 ### 📊 Analytics That Drive Decisions
 
-Data is only valuable when it tells a story. I build **predictive models, recommendation engines, and dashboards** that transform raw numbers into strategic insights. My Spotify recommender processes 114,000 songs with 1.22ms latency. My sales agent analyzes data across vendors, regions, and time periods. **Every system is built for impact**.
+Data tells a story — I help tell it. I build **predictive models, recommendation engines, and dashboards** that transform raw numbers into strategic insights. Every system I build is measured by its impact.
+
+**What I've built:** A Spotify recommendation system processing 114,000 songs with 1.22ms latency and 80% catalogue coverage. A partner analytics dashboard for Royal Caribbean with real-time business metrics.
 
 ### 🏗️ Infrastructure That Scales
 
-Production isn't a afterthought — it's the foundation. I containerize with Docker, deploy on Azure and AWS, automate with GitHub Actions, and orchestrate with n8n and RabbitMQ. **Resilience, observability, and scalability** are built in from day one.
+Production isn't an afterthought — it's the foundation. I containerize with Docker, deploy on Azure and AWS, automate with GitHub Actions, and orchestrate with n8n and RabbitMQ. **Resilience, observability, and scalability** are built in from day one.
 
 ---
 
-## 🚀 Projects That Matter
+## 🚀 Featured Projects
 
 ### 📊 Sales Intelligence Agent
 
-Imagine asking your data questions in plain English and getting intelligent answers. That's what I built — a conversational agent with **9 specialized tools** for analyzing sales by vendor, region, product, and time. Two-layer memory means it remembers context across sessions. Deployed on Azure Container Apps with LangSmith monitoring, 37+ tests, and CI/CD.
+A conversational agent that analyzes sales data through natural language queries. Orchestrates 9 specialized tools covering sales by vendor, region, product, and time period. Features two-layer persistent memory for contextual multi-turn conversations. Deployed on Azure Container Apps with 37+ Pytest tests, LangSmith observability, and GitHub Actions CI/CD.
 
-*LangGraph · Groq · FastAPI · Azure · LangSmith*
+**Tech:** LangGraph · LangChain · Groq (LLaMA 3.3) · FastAPI · Pandas · Docker · Azure · LangSmith · Pytest
+
+🔗 [View Repository](https://github.com/nzberman/sales-intelligence-agent)
 
 ---
 
 ### 🏭 Corporate RAG Agent
 
-For an HR department drowning in documentation, I built an assistant that finds answers in **sub-second time**. Using FAISS vector search and Llama 3.1 on Groq, it processes thousands of pages of technical documents with optimized chunking strategies. The result? **Instant answers, reduced workload, and happier employees**.
+An intelligent HR assistant achieving sub-second response latency on technical documentation. Leverages FAISS vector search and optimized text chunking for extensive documents. Deployed as a production-ready FastAPI REST API with Swagger documentation and CORS middleware.
 
-*LangChain · FAISS · Llama 3.1 · FastAPI*
+**Tech:** LangChain · FAISS · Llama 3.1 · Groq · HuggingFace · FastAPI · PyPDFLoader
 
----
-
-### 🐝 Beehive Monitoring System
-
-This one is personal. I built an **edge-to-cloud system** using YOLOv8/11 to monitor bee colonies in real-time. A Graph-RAG pipeline in Neo4j correlates visual behavior with climate data. Multi-agent orchestration via n8n automates diagnostics and predictive alerts. It's biology and AI working together — **just like my journey**.
-
-*YOLOv8/11 · Neo4j · Graph-RAG · n8n · Docker*
+🔗 [View Repository](https://github.com/nzberman/corporate-rag-agent)
 
 ---
 
-### 👁️ Visual Assistant for Reduced Vision
+### 🐝 AI-Powered Beehive Monitoring System
 
-Real-time object detection with voice feedback for visually impaired users. YOLOv8 processes live camera streams through WebRTC, and FastAPI serves the backend. It's **technology with purpose** — making the world more accessible.
+An edge-to-cloud system using YOLOv8/11 for real-time bee activity quantification. Graph-RAG pipeline in Neo4j correlates visual behavior with climatic variables. Multi-agent orchestration via n8n automates diagnostics and predictive alerts. Webhook-based infrastructure syncs edge telemetry with centralized knowledge graphs.
 
-*YOLOv8 · OpenCV · WebRTC · FastAPI*
+**Tech:** YOLOv8/11 · Neo4j · Graph-RAG · n8n · Docker · Pinecone · Webhooks
+
+🔗 [View Repository](https://github.com/nzberman/beehive-monitoring)
 
 ---
 
-### 🎵 Spotify Recommender
+### 👁️ AI Visual Assistant for Reduced Vision
 
-114,000 songs. 1.22ms latency. 80% catalogue coverage. 0.99 similarity score. I built a recommendation engine that prioritizes **acoustic similarity over genre labels** — discovering connections between songs that others miss. It's fast, accurate, and deployed with Docker.
+End-to-end computer vision application providing real-time environmental awareness. YOLOv8 object detection with voice feedback system. Supports live camera processing on web and mobile platforms through WebRTC.
 
-*FAISS · FastAPI · Scikit-learn · K-Means · Docker*
+**Tech:** YOLOv8 · OpenCV · FastAPI · WebRTC · JavaScript
+
+🔗 [View Repository](https://github.com/nzberman/visual-assistant)
+
+---
+
+### 🎵 Spotify Recommendation System
+
+Production recommendation system for 114,000 songs using FAISS vector search. Achieves 1.22ms latency, 80% catalogue coverage, and 0.99 average similarity score. Strategic design prioritizes acoustic similarity over genre labels for cross-genre discovery.
+
+**Tech:** FAISS · FastAPI · Scikit-learn · K-Means · Docker
+
+🔗 [View Repository](https://github.com/nzberman/spotify-recsys)
 
 ---
 
 ### 🚢 Royal Caribbean Partner Analytics
 
-A data engineering solution that monitors partner network performance with a PostgreSQL database and Streamlit dashboard. It's about **visibility, insights, and better decisions** — the foundation of any analytics strategy.
+Scalable data engineering solution with PostgreSQL database and Streamlit dashboard for monitoring partner network performance and business metrics.
 
-*PostgreSQL · Streamlit · Python*
+**Tech:** PostgreSQL · Streamlit · Python
+
+🔗 [View Repository](https://github.com/nzberman/partner-analytics)
 
 ---
 
-## 🎯 What I Bring to the Table
+## 🎯 Core Competencies
 
-| Domain | Expertise |
-|--------|-----------|
-| **Agentic AI** | LangGraph · Multi-agent orchestration · Persistent memory |
-| **LLM Systems** | RAG · Graph-RAG · OpenAI · Groq · Fine-tuning |
-| **Computer Vision** | YOLOv8/11 · PyTorch · OpenCV · Edge deployment |
-| **Data Science** | Statistical modeling · Recommendations · Predictive analytics |
-| **Infrastructure** | FastAPI · Docker · Azure · AWS · CI/CD |
-| **Orchestration** | n8n · RabbitMQ · Webhooks · Event-driven architecture |
+| Domain | Technologies |
+|--------|--------------|
+| **Agentic AI** | LangGraph · LangChain · LangSmith · Multi-agent orchestration · Persistent memory |
+| **LLM Systems** | RAG · Graph-RAG · OpenAI · Groq · Llama 3.1/3.3 · Fine-tuning |
+| **Computer Vision** | YOLOv8/11 · PyTorch · OpenCV · Object detection · Edge deployment |
+| **Data Science** | Statistical modeling · Predictive analytics · Recommendation systems · K-Means |
+| **Infrastructure** | FastAPI · Docker · Azure · AWS · Neo4j · RabbitMQ · MinIO · Elasticsearch |
+| **Orchestration** | n8n · GitHub Actions · Webhooks · CI/CD · Event-driven architecture |
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/nzberman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nzberman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio.nzberman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"I build systems that think, adapt, and scale — because intelligence isn't just about data. It's about understanding the patterns that connect everything."</i>
+  <i>"From understanding emergent behavior in biological systems to orchestrating intelligent agents in code — I bridge the gap between nature's complexity and artificial intelligence."</i>
 </p>
+
+
+
+
+
+
 
 
 <p align="center">
