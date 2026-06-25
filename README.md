@@ -1,40 +1,36 @@
+# 👋 Bernardo Mantilla
+### AI Engineer | Data Scientist | Production-Grade LLM Architect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio.nzberman.com)
 
-## Hello! 👋 Welcome to my GitHub profile!
+---
 
-I'm Bernardo Mantilla, a professional with a strong foundation in Data Science and a passion for applying data-driven solutions across diverse fields. My unique background, including training in Biology, allows me to bring a fresh perspective to complex analytical challenges.
+## 🧠 About Me
 
-In this profile, you'll find projects showcasing my skills in development and data analysis. I'm particularly interested in leveraging these skills to drive innovation within the health, agriculture, finance, and entertainment platform sectors.
+AI Engineer with a background in biological sciences and beekeeping entrepreneurship. I design and deploy **production-grade architectures** integrating computer vision pipelines with Graph-RAG and LLM-based Agentic AI systems to solve complex real-world problems.
 
-**A little about me:**
+My approach: understanding **emergent behavior** — from bee colonies to intelligent agents — and applying it with **operational resilience** in production environments.
 
-* 📊 Proficient in Data Science.
-* 👨‍💻 Freelance Web Developer.
-* 🌱 Analytical and detail-oriented, with a passion for interdisciplinary problem-solving.
+> *"From emergent behavior in biology to orchestrating agents in code."*
 
-**Explore my repositories to see my work in:**
+---
 
-* Python (Pandas, NumPy, Scikit-learn)
-* SQL (PostgreSQL, MySQL)
-* Java
-* And more...
+## 🔧 Core Expertise
 
-Thank you for visiting my profile! Feel free to connect with me on [Your LinkedIn](https://www.linkedin.com/in/bernardo-mantilla-afanador/) or reach out via email.
-<!--
-**bernytech25/bernytech25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Agent Architecture**: LangGraph, LangChain, LangSmith
+- **Production RAG**: FAISS, Pinecone, Graph-RAG, OpenAI, Groq
+- **Infrastructure**: FastAPI, Docker, Azure, AWS, Neo4j, RabbitMQ
+- **Computer Vision**: YOLOv11, PyTorch, OpenCV
+- **CI/CD**: GitHub Actions, Azure Container Apps, Pytest
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com)
           
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
