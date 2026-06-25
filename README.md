@@ -59,8 +59,6 @@ A conversational agent that analyzes sales data through natural language queries
 
 **Tech:** LangGraph · LangChain · Groq (LLaMA 3.3) · FastAPI · Pandas · Docker · Azure · LangSmith · Pytest
 
-🔗 [View Repository](https://github.com/nzberman/sales-intelligence-agent)
-
 ---
 
 ### 🏭 Corporate RAG Agent
@@ -68,8 +66,6 @@ A conversational agent that analyzes sales data through natural language queries
 An intelligent HR assistant achieving sub-second response latency on technical documentation. Leverages FAISS vector search and optimized text chunking for extensive documents. Deployed as a production-ready FastAPI REST API with Swagger documentation and CORS middleware.
 
 **Tech:** LangChain · FAISS · Llama 3.1 · Groq · HuggingFace · FastAPI · PyPDFLoader
-
-🔗 [View Repository](https://github.com/nzberman/corporate-rag-agent)
 
 ---
 
@@ -79,8 +75,6 @@ An edge-to-cloud system using YOLOv8/11 for real-time bee activity quantificatio
 
 **Tech:** YOLOv8/11 · Neo4j · Graph-RAG · n8n · Docker · Pinecone · Webhooks
 
-🔗 [View Repository](https://github.com/nzberman/beehive-monitoring)
-
 ---
 
 ### 👁️ AI Visual Assistant for Reduced Vision
@@ -88,8 +82,6 @@ An edge-to-cloud system using YOLOv8/11 for real-time bee activity quantificatio
 End-to-end computer vision application providing real-time environmental awareness. YOLOv8 object detection with voice feedback system. Supports live camera processing on web and mobile platforms through WebRTC.
 
 **Tech:** YOLOv8 · OpenCV · FastAPI · WebRTC · JavaScript
-
-🔗 [View Repository](https://github.com/nzberman/visual-assistant)
 
 ---
 
@@ -99,8 +91,6 @@ Production recommendation system for 114,000 songs using FAISS vector search. Ac
 
 **Tech:** FAISS · FastAPI · Scikit-learn · K-Means · Docker
 
-🔗 [View Repository](https://github.com/nzberman/spotify-recsys)
-
 ---
 
 ### 🚢 Royal Caribbean Partner Analytics
@@ -108,8 +98,6 @@ Production recommendation system for 114,000 songs using FAISS vector search. Ac
 Scalable data engineering solution with PostgreSQL database and Streamlit dashboard for monitoring partner network performance and business metrics.
 
 **Tech:** PostgreSQL · Streamlit · Python
-
-🔗 [View Repository](https://github.com/nzberman/partner-analytics)
 
 ---
 
@@ -139,13 +127,6 @@ Scalable data engineering solution with PostgreSQL database and Streamlit dashbo
 <p align="center">
   <i>"From understanding emergent behavior in biological systems to orchestrating intelligent agents in code — I bridge the gap between nature's complexity and artificial intelligence."</i>
 </p>
-
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
