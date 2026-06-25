@@ -110,32 +110,6 @@ A data engineering solution that monitors partner network performance with a Pos
 
 ---
 
-## 💼 Where I've Worked
-
-**AI Engineer** @ Cronoss.ai
-*Financial AI coach with RAG pipelines, n8n orchestration, and domain-specific LLM fine-tuning.*
-
-**Data Scientist** @ Matcheando
-*Video analytics for SDR assessment with RabbitMQ, MinIO, ELK Stack, and LLaMA models.*
-
----
-
-## 📜 Education & Certifications
-
-- **Oracle Cloud Infrastructure (OCI)** — *Expected 2026*
-- **Python Initiation** — *Buenos Aires Ciudad, 2025*
-- **Certified Data Scientist** — *Henry Bootcamp, 2023*
-- **Certified Back-End Developer** — *Oracle Next Education, 2023*
-- **Advanced Studies in Biology** — *Pontificia Universidad Javeriana, Colombia*
-
----
-
-## 🌍 Languages
-
-🇪🇸 Native · 🇬🇧 Advanced (B2) · 🇧🇷 Basic (A2)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman)
