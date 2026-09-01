@@ -1,110 +1,96 @@
 # 👋 Bernardo Mantilla
-### AI Engineer | Data Scientist | Production-Grade LLM Architect
 
-<p align="center">
-  <a href="https://linkedin.com/in/nzberman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nzberman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio.nzberman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
- </p>
+## Senior AI Engineer | Data Scientist | Production-Grade LLM & Agentic Systems Architect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.nzberman.com)
 
 ---
 
-## 🧠 About Me
+## 🧭 About Me
 
-I am an AI Engineer and Data Scientist who builds production-grade systems that bridge the gap between complex data and human understanding. My journey began in biological sciences, publishing research on complex systems, before taking an unconventional path: building a beekeeping business and working internationally in New Zealand.
-
-That experience taught me a fundamental truth: **resilience, adaptation, and emergent behavior** aren't just biological concepts. They are the blueprint for robust, scalable AI systems.
-
-Today, I architect solutions where **computer vision meets Graph-RAG**, where **intelligent agents reason and collaborate**, and where raw data transforms into automated, strategic decisions. I bring operational resilience to every system I build, applying lessons from nature to ensure my architectures adapt, survive, and thrive in production.
+Senior AI Engineer y Data Scientist especializado en diseñar y llevar a producción sistemas de IA que convierten datos complejos y no estructurados en pipelines de decisión autónomos y confiables. Su camino inició en ciencias biológicas -publicando investigación sobre sistemas complejos- antes de un giro poco convencional: fundar un negocio de apicultura y trabajar internacionalmente en Nueva Zelanda. Esa experiencia moldeó su forma de construir software: resiliencia, adaptación y comportamiento emergente no son solo principios biológicos, son requisitos arquitectónicos. Diseña sistemas que degradan con elegancia, se automonitorean y escalan bajo presión real -las mismas propiedades que mantienen viva una colonia durante un invierno duro. Hoy arquitecta sistemas en la intersección de visión por computadora, Graph-RAG y orquestación multi-agente, desplegando en entornos multi-cloud (Azure, Google Cloud) con observabilidad, autenticación y pruebas automatizadas desde el primer commit.
 
 ---
 
-## 🔧 What I Build
+## 🤖 What I Build
 
-### 🤖 Autonomous Agents That Think
-I build agents that don't just answer questions — they **reason, use tools, and remember**. Using LangGraph and the Model Context Protocol (MCP), I orchestrate systems that decompose complex problems, maintain context across conversations, and integrate seamlessly with modern AI clients.
-- **Impact:** Architected a dual-path sales intelligence agent with 10 specialized analytical tools, 3-tier persistent memory, and JWT authentication, deployed in a multi-cloud environment (Azure & Google Cloud) with LangSmith observability.
+### 1. 🧠 Autonomous Agents That Reason
+**LangGraph, MCP** — Diseña agentes autónomos capaces de razonar y operar con herramientas especializadas.
 
-### 📚 Knowledge Systems That Understand
-RAG isn't just retrieval — it's about **context, relationships, and relevance**. I design hybrid systems combining vector search (FAISS, Pinecone) with graph databases (Neo4j) for Graph-RAG pipelines that truly understand connections between information.
-- **Impact:** Engineered a corporate RAG assistant for HR that processes thousands of documents with sub-second latency, and a beehive monitoring system correlating visual behavior with climate data.
+**Impact:** agente de inteligencia de ventas dual-path, 10 herramientas analíticas, memoria persistente de 3 niveles, JWT, multi-cloud, LangSmith.
 
-### 👁️ Vision Systems That See
-From monitoring bee colonies to assisting visually impaired users, I build **end-to-end computer vision pipelines** that operate efficiently at the edge and in the cloud. YOLOv8/11, PyTorch, and OpenCV power real-time detection systems that quantify behavior and provide actionable insights.
-- **Impact:** Developed an edge-to-cloud monitoring system for beehives with real-time activity quantification, and a visual assistant for reduced vision featuring low-latency voice feedback.
+### 2. 📚 Knowledge Systems With Context
+**RAG, Graph-RAG, FAISS, Pinecone, Neo4j** — Construye sistemas de conocimiento que conectan información y contexto para respuestas confiables.
 
-### 📊 Analytics That Drive Decisions
-Data tells a story — I help tell it. I build **predictive models, recommendation engines, and dashboards** that transform raw numbers into strategic insights. Every system I build is measured by its tangible business impact.
-- **Impact:** Built a Spotify recommendation system processing 114,000 songs with 1.22ms latency and 80% catalog coverage, and a partner analytics dashboard for Royal Caribbean with real-time business metrics.
+**Impact:** asistente RAG de RRHH corporativo con miles de documentos en latencia sub-segundo, y sistema de monitoreo de colmenas correlacionando comportamiento visual con telemetría climática.
 
-### 🏗️ Infrastructure That Scales
-Production isn't an afterthought — it's the foundation. I containerize with Docker, deploy on Azure and Google Cloud, automate with GitHub Actions, and orchestrate with n8n and RabbitMQ. **Resilience, observability, and scalability** are built in from day one.
+### 3. 👁️ Computer Vision at the Edge and in the Cloud
+**YOLOv8/v11, PyTorch, OpenCV** — Lleva computer vision desde el edge hasta la nube, con inferencia práctica y baja latencia.
+
+**Impact:** sistema edge-to-cloud de monitoreo de colmenas con cuantificación de actividad en tiempo real, y asistente visual de baja latencia con retroalimentación de voz para personas con baja visión.
+
+### 4. 📊 Analytics Engineered for Business Impact
+**modelos predictivos, recomendación, dashboards** — Convierte modelos y datos en productos analíticos orientados al impacto de negocio.
+
+**Impact:** motor de recomendación de Spotify sobre 114K canciones, 1.22ms de latencia, 80% de cobertura de catálogo; dashboard de analítica en tiempo real para Royal Caribbean.
+
+### 5. 🏗️ Infrastructure Built to Scale
+**Docker, Azure, Google Cloud, GitHub Actions, n8n, RabbitMQ** — observabilidad y resiliencia desde el primer commit.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Sales Intelligence Agent
-A production-ready conversational agent for natural language sales analysis. Features a **dual-path architecture**: a FastAPI + LangGraph orchestration for web/mobile, and a native **Model Context Protocol (MCP)** server for direct AI client integration (Cursor, Claude). Leverages 10 decoupled Pandas-based tools, a 3-tier memory system (RAM, JSON, Azure Cosmos DB), and robust JWT authentication. Deployed across multi-cloud environments with LangSmith tracing and 31+ Pytest unit tests.
-**Tech:** LangGraph · FastAPI · Model Context Protocol (MCP) · Google Gemini · Pandas · Azure Cosmos DB · Google Cloud Run · LangSmith · Pytest
+### 1. 🎯 Sales Intelligence Agent
+Agente de inteligencia de ventas dual-path con herramientas analíticas, memoria persistente y despliegue multi-cloud.
 
-### 🏭 Corporate RAG Agent
-Engineered an intelligent HR RAG assistant achieving sub-second response latency on extensive technical documentation. Optimized text chunking and FAISS vector search for maximum retrieval accuracy. Deployed as a production-ready FastAPI REST API with comprehensive Swagger documentation and CORS middleware.
-**Tech:** LangChain · FAISS · Llama 3.1 · Groq · HuggingFace · FastAPI · PyPDFLoader
+**Stack:** `LangGraph` · `FastAPI` · `MCP` · `Google Gemini` · `Pandas` · `Azure Cosmos DB` · `Google Cloud Run` · `LangSmith` · `Pytest`
 
-### 🐝 AI-Powered Beehive Monitoring System
-Architected an edge-to-cloud monitoring system leveraging YOLOv8/11 for real-time bee activity quantification. Integrated a Neo4j Graph-RAG pipeline to correlate visual behavior with climatic variables. Automated diagnostics and predictive alerts via n8n multi-agent orchestration and webhook-based telemetry sync.
-**Tech:** YOLOv8/11 · Neo4j · Graph-RAG · n8n · Docker · Pinecone · Webhooks
+### 2. 📖 Corporate RAG Agent
+Asistente RAG de RRHH corporativo con miles de documentos y latencia sub-segundo.
 
-### 👁️ AI Visual Assistant for Reduced Vision
-Developed an end-to-end computer vision application providing real-time environmental awareness for visually impaired users. Implemented YOLOv8 object detection paired with a low-latency voice feedback system, supporting live camera processing on web and mobile platforms via WebRTC.
-**Tech:** YOLOv8 · OpenCV · FastAPI · WebRTC · JavaScript
+**Stack:** `LangChain` · `FAISS` · `Llama 3.1` · `Groq` · `HuggingFace` · `FastAPI` · `PyPDFLoader`
 
-### 🎵 Spotify Recommendation System
-Engineered a production-grade recommendation system for a 114,000-song catalog using FAISS vector search. Achieved **1.22ms query latency**, **80% catalog coverage**, and a **0.99 average similarity score**. Strategically prioritized acoustic feature similarity over traditional genre labels to enable superior cross-genre discovery.
-**Tech:** FAISS · FastAPI · Scikit-learn · K-Means · Docker
+### 3. 🐝 AI-Powered Beehive Monitoring System
+Sistema de monitoreo de colmenas que correlaciona comportamiento visual con telemetría climática.
 
-### 🚢 Royal Caribbean Partner Analytics
-Delivered a scalable data engineering solution featuring a robust PostgreSQL backend and an interactive Streamlit dashboard, enabling real-time monitoring of partner network performance and key business metrics.
-**Tech:** PostgreSQL · Streamlit · Python
+**Stack:** `YOLOv8/11` · `Neo4j` · `Graph-RAG` · `n8n` · `Docker` · `Pinecone` · `Webhooks`
 
----
+### 4. 👓 AI Visual Assistant for Reduced Vision
+Asistente visual de baja latencia con retroalimentación de voz para personas con baja visión.
 
-## 🎯 Core Competencies
+**Stack:** `YOLOv8` · `OpenCV` · `FastAPI` · `WebRTC` · `JavaScript`
 
-| Domain | Technologies |
-|--------|--------------|
-| **Agentic AI** | LangGraph · LangChain · Model Context Protocol (MCP) · Multi-agent orchestration · Persistent memory |
-| **LLM Systems** | RAG · Graph-RAG · Google Gemini · Groq · Llama 3.1/3.3 · Fine-tuning |
-| **Computer Vision** | YOLOv8/11 · PyTorch · OpenCV · Object detection · Edge deployment |
-| **Data Science** | Statistical modeling · Predictive analytics · Recommendation systems · Pandas · K-Means |
-| **Infrastructure** | FastAPI · Docker · Google Cloud (Run, Artifact Registry) · Azure · AWS · Neo4j · RabbitMQ |
-| **Orchestration** | n8n · GitHub Actions · Webhooks · CI/CD · Event-driven architecture |
+### 5. 🎵 Spotify Recommendation System
+Motor de recomendación sobre 114K canciones (**1.22ms latencia, 80% cobertura, 0.99 similaridad promedio**).
+
+**Stack:** `FAISS` · `FastAPI` · `Scikit-learn` · `K-Means` · `Docker`
+
+### 6. 🛳️ Royal Caribbean Partner Analytics
+Dashboard de analítica en tiempo real para Royal Caribbean.
+
+**Stack:** `PostgreSQL` · `Streamlit` · `Python`
 
 ---
 
-## 📫 Let's Connect
+## 🧩 Core Competencies
 
-<p align="center">
-  <a href="https://linkedin.com/in/nzberman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nzberman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio.nzberman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+| Área | Skills |
+|---|---|
+| 🤖 **Agentic AI** | [![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge)](#) [![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge)](#) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#) [![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=for-the-badge)](#) |
+| 📚 **LLM Systems** | [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](#) [![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)](#) [![Graph--RAG](https://img.shields.io/badge/Graph--RAG-0F766E?style=for-the-badge)](#) [![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)](#) [![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)](#) [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](#) [![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge)](#) [![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#) |
+| 👁️ **Computer Vision** | [![YOLOv8/v11](https://img.shields.io/badge/YOLOv8%2Fv11-111827?style=for-the-badge)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#) [![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](#) |
+| ⚙️ **Backend & APIs** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#) [![Webhooks](https://img.shields.io/badge/Webhooks-6B7280?style=for-the-badge)](#) |
+| 📊 **Data & Analytics** | [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![K--Means](https://img.shields.io/badge/K--Means-2563EB?style=for-the-badge)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#) [![Dashboards](https://img.shields.io/badge/Dashboards-0EA5E9?style=for-the-badge)](#) |
+| ☁️ **Cloud & Infrastructure** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](#) [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](#) [![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#) |
+| 🔍 **Observability & Testing** | [![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=for-the-badge)](#) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) |
 
 ---
 
-<p align="center">
-  <i>"From understanding emergent behavior in biological systems to orchestrating intelligent agents in code — I bridge the gap between nature's complexity and artificial intelligence."</i>
-</p>
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="vertical-align: middle; margin: 8px;" />
-</p>
+[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernytech25&show_icons=true&theme=transparent)](https://github.com/bernytech25) [![GitHub Streak](https://streak-stats.demolab.com?user=bernytech25&theme=transparent)](https://github.com/bernytech25)
+
+## 🛠️ Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,docker,azure,gcp,postgres,neo4j,javascript,git,githubactions,n8n)](https://skillicons.dev)
