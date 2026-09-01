@@ -10,7 +10,7 @@
 
 <div align="justify">
 
-Senior AI Engineer and Data Scientist specialized in designing and deploying AI systems that turn complex, unstructured data into autonomous and reliable decision pipelines. My path began in the biological sciences—publishing research on complex systems—before taking an unconventional turn: founding an beekeeping business and working internationally in New Zealand. That experience shaped how I build software: resilience, adaptation, and emergent behavior are not only biological principles; they are architectural requirements. I design systems that degrade gracefully, self-monitor, and scale under real pressure—the same properties that keep a colony alive through a harsh winter. Today I architect systems at the intersection of computer vision, Graph-RAG, and multi-agent orchestration, deploying in multi-cloud environments (Azure, Google Cloud) with observability, authentication, and automated testing from the first commit.
+AI Engineer specializing in architecting production-grade agentic and RAG systems, with a foundation in Data Science that shapes how I design them. Before orchestrating multi-agent systems or retrieval pipelines, I understand the data itself — its structure, statistical behavior, and quality constraints — which is what separates my architectures from purely orchestration-focused implementations. This path started in Biological Sciences, where I developed rigor in research and evidence-based reasoning; moved into Data Science, where I built real projects in statistical modeling and analysis; and led me to AI Engineering, where I now design multi-cloud, observable, and tested systems that go into production — not just prototypes.
 
 </div>
 
