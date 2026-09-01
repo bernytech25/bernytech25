@@ -8,66 +8,105 @@
 
 ## 🧭 About Me
 
-Senior AI Engineer y Data Scientist especializado en diseñar y llevar a producción sistemas de IA que convierten datos complejos y no estructurados en pipelines de decisión autónomos y confiables. Su camino inició en ciencias biológicas -publicando investigación sobre sistemas complejos- antes de un giro poco convencional: fundar un negocio de apicultura y trabajar internacionalmente en Nueva Zelanda. Esa experiencia moldeó su forma de construir software: resiliencia, adaptación y comportamiento emergente no son solo principios biológicos, son requisitos arquitectónicos. Diseña sistemas que degradan con elegancia, se automonitorean y escalan bajo presión real -las mismas propiedades que mantienen viva una colonia durante un invierno duro. Hoy arquitecta sistemas en la intersección de visión por computadora, Graph-RAG y orquestación multi-agente, desplegando en entornos multi-cloud (Azure, Google Cloud) con observabilidad, autenticación y pruebas automatizadas desde el primer commit.
+<div align="justify">
+
+Senior AI Engineer and Data Scientist specialized in designing and deploying AI systems that turn complex, unstructured data into autonomous and reliable decision pipelines. My path began in the biological sciences—publishing research on complex systems—before taking an unconventional turn: founding an beekeeping business and working internationally in New Zealand. That experience shaped how I build software: resilience, adaptation, and emergent behavior are not only biological principles; they are architectural requirements. I design systems that degrade gracefully, self-monitor, and scale under real pressure—the same properties that keep a colony alive through a harsh winter. Today I architect systems at the intersection of computer vision, Graph-RAG, and multi-agent orchestration, deploying in multi-cloud environments (Azure, Google Cloud) with observability, authentication, and automated testing from the first commit.
+
+</div>
 
 ---
 
 ## 🤖 What I Build
 
 ### 1. 🧠 Autonomous Agents That Reason
-**LangGraph, MCP** — Diseña agentes autónomos capaces de razonar y operar con herramientas especializadas.
 
-**Impact:** agente de inteligencia de ventas dual-path, 10 herramientas analíticas, memoria persistente de 3 niveles, JWT, multi-cloud, LangSmith.
+**LangGraph, MCP** — I design autonomous agents capable of reasoning and operating with specialized tools.
+
+**Impact:** dual-path sales intelligence agent, 10 analytical tools, 3-level persistent memory, JWT, multi-cloud, LangSmith.
 
 ### 2. 📚 Knowledge Systems With Context
-**RAG, Graph-RAG, FAISS, Pinecone, Neo4j** — Construye sistemas de conocimiento que conectan información y contexto para respuestas confiables.
 
-**Impact:** asistente RAG de RRHH corporativo con miles de documentos en latencia sub-segundo, y sistema de monitoreo de colmenas correlacionando comportamiento visual con telemetría climática.
+**RAG, Graph-RAG, FAISS, Pinecone, Neo4j** — I build knowledge systems that connect information and context for reliable answers.
+
+**Impact:** corporate HR RAG assistant with thousands of documents at sub-second latency, and a beehive monitoring system correlating visual behavior with weather telemetry.
 
 ### 3. 👁️ Computer Vision at the Edge and in the Cloud
-**YOLOv8/v11, PyTorch, OpenCV** — Lleva computer vision desde el edge hasta la nube, con inferencia práctica y baja latencia.
 
-**Impact:** sistema edge-to-cloud de monitoreo de colmenas con cuantificación de actividad en tiempo real, y asistente visual de baja latencia con retroalimentación de voz para personas con baja visión.
+**YOLOv8/v11, PyTorch, OpenCV** — I take computer vision from the edge to the cloud, with practical, low-latency inference.
+
+**Impact:** edge-to-cloud beehive monitoring system with real-time activity quantification, and a low-latency visual assistant with voice feedback for people with reduced vision.
 
 ### 4. 📊 Analytics Engineered for Business Impact
-**modelos predictivos, recomendación, dashboards** — Convierte modelos y datos en productos analíticos orientados al impacto de negocio.
 
-**Impact:** motor de recomendación de Spotify sobre 114K canciones, 1.22ms de latencia, 80% de cobertura de catálogo; dashboard de analítica en tiempo real para Royal Caribbean.
+**Predictive models, recommendation, dashboards** — I turn models and data into analytics products focused on business impact.
+
+**Impact:** Spotify recommendation engine across 114K songs, 1.22ms latency, 80% catalog coverage; real-time analytics dashboard for Royal Caribbean.
 
 ### 5. 🏗️ Infrastructure Built to Scale
-**Docker, Azure, Google Cloud, GitHub Actions, n8n, RabbitMQ** — observabilidad y resiliencia desde el primer commit.
+
+**Docker, Azure, Google Cloud, GitHub Actions, n8n, RabbitMQ** — observability and resilience from the first commit.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. 🎯 Sales Intelligence Agent
-Agente de inteligencia de ventas dual-path con herramientas analíticas, memoria persistente y despliegue multi-cloud.
+
+<div align="justify">
+
+Dual-path sales intelligence agent with analytical tools, persistent memory, and multi-cloud deployment.
+
+</div>
 
 **Stack:** `LangGraph` · `FastAPI` · `MCP` · `Google Gemini` · `Pandas` · `Azure Cosmos DB` · `Google Cloud Run` · `LangSmith` · `Pytest`
 
 ### 2. 📖 Corporate RAG Agent
-Asistente RAG de RRHH corporativo con miles de documentos y latencia sub-segundo.
+
+<div align="justify">
+
+Corporate HR RAG assistant with thousands of documents and sub-second latency.
+
+</div>
 
 **Stack:** `LangChain` · `FAISS` · `Llama 3.1` · `Groq` · `HuggingFace` · `FastAPI` · `PyPDFLoader`
 
 ### 3. 🐝 AI-Powered Beehive Monitoring System
-Sistema de monitoreo de colmenas que correlaciona comportamiento visual con telemetría climática.
+
+<div align="justify">
+
+Beehive monitoring system that correlates visual behavior with weather telemetry.
+
+</div>
 
 **Stack:** `YOLOv8/11` · `Neo4j` · `Graph-RAG` · `n8n` · `Docker` · `Pinecone` · `Webhooks`
 
 ### 4. 👓 AI Visual Assistant for Reduced Vision
-Asistente visual de baja latencia con retroalimentación de voz para personas con baja visión.
+
+<div align="justify">
+
+Low-latency visual assistant with voice feedback for people with reduced vision.
+
+</div>
 
 **Stack:** `YOLOv8` · `OpenCV` · `FastAPI` · `WebRTC` · `JavaScript`
 
 ### 5. 🎵 Spotify Recommendation System
-Motor de recomendación sobre 114K canciones (**1.22ms latencia, 80% cobertura, 0.99 similaridad promedio**).
+
+<div align="justify">
+
+Recommendation engine across 114K songs (**1.22ms latency, 80% coverage, 0.99 average similarity**).
+
+</div>
 
 **Stack:** `FAISS` · `FastAPI` · `Scikit-learn` · `K-Means` · `Docker`
 
 ### 6. 🛳️ Royal Caribbean Partner Analytics
-Dashboard de analítica en tiempo real para Royal Caribbean.
+
+<div align="justify">
+
+Real-time analytics dashboard for Royal Caribbean.
+
+</div>
 
 **Stack:** `PostgreSQL` · `Streamlit` · `Python`
 
@@ -75,7 +114,7 @@ Dashboard de analítica en tiempo real para Royal Caribbean.
 
 ## 🧩 Core Competencies
 
-| Área | Skills |
+| Area | Skills |
 |---|---|
 | 🤖 **Agentic AI** | [![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge)](#) [![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge)](#) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#) [![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=for-the-badge)](#) |
 | 📚 **LLM Systems** | [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](#) [![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)](#) [![Graph--RAG](https://img.shields.io/badge/Graph--RAG-0F766E?style=for-the-badge)](#) [![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)](#) [![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)](#) [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](#) [![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge)](#) [![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#) |
@@ -87,10 +126,18 @@ Dashboard de analítica en tiempo real para Royal Caribbean.
 
 ---
 
+## 🛠️ Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,docker,azure,gcp,postgres,neo4j,javascript,git,githubactions,n8n)](https://skillicons.dev)
+
+---
+
 ## 📈 GitHub Stats
 
 [![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernytech25&show_icons=true&theme=transparent)](https://github.com/bernytech25) [![GitHub Streak](https://streak-stats.demolab.com?user=bernytech25&theme=transparent)](https://github.com/bernytech25)
 
-## 🛠️ Tech Stack
+---
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,docker,azure,gcp,postgres,neo4j,javascript,git,githubactions,n8n)](https://skillicons.dev)
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nzberman) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nzberman@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.nzberman.com)
