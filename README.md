@@ -18,37 +18,6 @@ AI Engineer specializing in architecting production-grade agentic and RAG system
 
 ## 🤖 What I Build
 
-### 1. 🧠 Autonomous Agents That Reason
-
-**LangGraph, MCP** — I design autonomous agents capable of reasoning and operating with specialized tools.
-
-**Impact:** dual-path sales intelligence agent, 10 analytical tools, 3-level persistent memory, JWT, multi-cloud, LangSmith.
-
-### 2. 📚 Knowledge Systems With Context
-
-**RAG, Graph-RAG, FAISS, Pinecone, Neo4j** — I build knowledge systems that connect information and context for reliable answers.
-
-**Impact:** corporate HR RAG assistant with thousands of documents at sub-second latency, and a beehive monitoring system correlating visual behavior with weather telemetry.
-
-### 3. 👁️ Computer Vision at the Edge and in the Cloud
-
-**YOLOv8/v11, PyTorch, OpenCV** — I take computer vision from the edge to the cloud, with practical, low-latency inference.
-
-**Impact:** edge-to-cloud beehive monitoring system with real-time activity quantification, and a low-latency visual assistant with voice feedback for people with reduced vision.
-
-### 4. 📊 Analytics Engineered for Business Impact
-
-**Predictive models, recommendation, dashboards** — I turn models and data into analytics products focused on business impact.
-
-**Impact:** Spotify recommendation engine across 114K songs, 1.22ms latency, 80% catalog coverage; real-time analytics dashboard for Royal Caribbean.
-
-### 5. 🏗️ Infrastructure Built to Scale
-
-**Docker, Azure, Google Cloud, GitHub Actions, n8n, RabbitMQ** — observability and resilience from the first commit.
-
----
-
-## 🚀 Featured Projects
 
 ### 1. 🎯 Sales Intelligence Agent
 
