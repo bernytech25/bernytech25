@@ -24,6 +24,7 @@ AI Engineer specializing in architecting production-grade agentic and RAG system
 <div align="justify">
 
 Dual-path sales intelligence agent with analytical tools, persistent memory, and multi-cloud deployment.
+https://github.com/bernytech25/sales-intelligence-agent
 
 </div>
 
