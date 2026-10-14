@@ -85,15 +85,6 @@ Real-time analytics dashboard for Royal Caribbean.
 | ☁️ **Cloud & Infrastructure** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](#) [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](#) [![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#) |
 | 🔍 **Observability & Testing** | [![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=for-the-badge)](#) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](#) |
 
----|---|
-| 🤖 **Agentic AI** | `LangGraph` · `MCP` · `JWT` · `LangSmith` |
-| 📚 **LLM Systems** | `LangChain` · `RAG` · `Graph-RAG` · `FAISS` · `Pinecone` · `Neo4j` · `Google Gemini` · `Llama 3.1` · `Groq` · `HuggingFace` |
-| 👁️ **Computer Vision** | `YOLOv8/v11` · `PyTorch` · `OpenCV` · `WebRTC` |
-| ⚙️ **Backend & APIs** | `Python` · `FastAPI` · `JavaScript` · `Pandas` · `Webhooks` |
-| 📊 **Data & Analytics** | `Scikit-learn` · `K-Means` · `PostgreSQL` · `Streamlit` · `Dashboards` |
-| ☁️ **Cloud & Infrastructure** | `Docker` · `Azure` · `Google Cloud` · `Azure Cosmos DB` · `GitHub Actions` · `n8n` · `RabbitMQ` |
-| 🔍 **Observability & Testing** | `LangSmith` · `Pytest` |
-
 ---
 
 ## 📈 GitHub Stats
