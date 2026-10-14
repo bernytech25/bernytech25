@@ -35,6 +35,7 @@ https://github.com/bernytech25/sales-intelligence-agent
 <div align="justify">
 
 Corporate HR RAG assistant with thousands of documents and sub-second latency.
+https://github.com/bernytech25/rag-agent
 
 </div>
 
