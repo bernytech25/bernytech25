@@ -52,6 +52,7 @@ Beehive monitoring system that correlates visual behavior with weather telemetry
 **Stack:** `YOLOv8/11` · `Neo4j` · `Graph-RAG` · `n8n` · `Docker` · `Pinecone` · `Webhooks`
 
 ### 4. 👓 AI Visual Assistant for Reduced Vision
+https://github.com/bernytech25/vision-assist
 
 <div align="justify">
 
